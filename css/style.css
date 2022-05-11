@@ -24,8 +24,13 @@ img{
   border: solid black 3px;
   border-radius: 4px;
   height: 750px;
-  background: rgb(53 101 77);
+  background: black;
 }
+
+.main{
+  color: antiquewhite;
+}
+
 .title{
   display:flex;
   justify-content: space-around;
@@ -35,18 +40,9 @@ img{
   width: 400px;
   border: solid black 2px;
   border-radius: 4px;
-  background: white;
+  background: gray;
 }
-.gamePlay{
-  display:flex;
-  align-items:flex-start;
-  flex-flow: row wrap;
-  height: 450px;
-  width: 500px;
-  border: solid black 2px;
-  border-radius: 4px;
-  background: white;
-}
+
 h2{
   width: 50%;
   text-align: center;
