@@ -24,7 +24,7 @@ img{
   border: solid black 3px;
   border-radius: 4px;
   height: 750px;
-  background: black;
+  background-image: url("../walker.jpeg");
 }
 
 .main{
