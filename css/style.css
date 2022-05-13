@@ -29,24 +29,26 @@ img{
 
 .main{
   color: antiquewhite;
+  font-size: 54px;
 }
 
 .title{
   display:flex;
-  justify-content: space-around;
   align-items: center;
   flex-flow: column;
+  padding: 15px;
   height: 250px;
-  width: 400px;
+  width: 800px;
   border: solid black 2px;
   border-radius: 4px;
-  background: gray;
+  background: linear-gradient(gray, white);
 }
 
-h2{
-  width: 50%;
+button{
+  width: 300px;
   text-align: center;
-  font-size: 28px;
+  font-size: 34px;
+  border-radius: 15px;
 }
 
 h4{
